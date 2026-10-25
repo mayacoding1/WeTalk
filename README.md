@@ -4,7 +4,7 @@ Congressional App Challenge Code!
 WeTalk is a mental health application aimed to improve the mental health and sleep habits of teenagers and young adults through features such as journalling, box breathing, and sleep logging. :D
 
 # Video! ✨
-<a>https://youtu.be/P982kE7wF6k<href="https://youtu.be/P982kE7wF6k"></a>
+<a>https://youtu.be/P982kE7wF6k</a>
 <br>
 Apologies if the quality looks  blurry at first; on my personal device I have had to switch the quality to 1080p manually.
 
